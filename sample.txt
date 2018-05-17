@@ -1,2 +1,3 @@
 This is a committing test by J. Alvin Harris
 Continued testing.
+Test a merge conflict
