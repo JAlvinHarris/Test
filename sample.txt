@@ -1,4 +1,1 @@
-This is a committing test by J. Alvin Harris
-Continued testing.
-My merge
-This should be a conflict
+This should be a conflict -JAH
